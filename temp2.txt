@@ -1,1 +1,2 @@
 this is temp2.txt!! 
+this is line 2 added at local repo in temp2.txt file.
